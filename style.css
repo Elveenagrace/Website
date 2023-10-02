@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+    padding:0px;
+    background: url('backgroung.jpeg');
+    background-size: cover;
+   
+  
+    
+    
+}
+  h1{ 
+    border:2px solid black;
+    margin:0px;
+    font-family: cursive;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: url('heading.jpg');
+
+}
+.container{
+    border: 2px solid black;
+    background-image: url('navih.jpg');
+}
+.container ul{
+    overflow: auto;
+    
+   
+
+}
+.container li{
+    float: left;
+    margin:5px;
+    list-style: none;
+    
+}
+.container li a{
+    margin: 5px;
+  text-decoration: none;
+  font-weight: bold;
+  color: rgb(5, 75, 72);
+  
+}
