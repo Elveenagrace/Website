@@ -1,1 +1,1 @@
-https://befit-fitness.onrender.com
+https://befit-fitness.onrender.com/website
